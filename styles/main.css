@@ -1,9 +1,9 @@
-*{
-    box-sizing: border-box
-}
+
 
 .About{
     background-color: violet;
+    padding: 0px;
+    margin: 0px;
 }
 
 .class{
@@ -16,6 +16,8 @@
     background-color: thistle;
     display: flex;
     flex-direction: column;
+    margin: 0px;
+    padding: 0px;
     
 }
 
@@ -23,8 +25,8 @@
     background-color: darkorchid;
     display: flex;
     flex-direction: column;
-    margin: 0;
-    padding: 0%;
+    margin: 0px;
+    padding: 0px;
     
 }
 

@@ -60,5 +60,9 @@ header li a {
     margin-right: 5px;
 }
 
+main {
+    height: calc(100vh - 100px);
+}
+
 
 
